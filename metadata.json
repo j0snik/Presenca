@@ -1,0 +1,6 @@
+{
+  "name": "Presença que Cura",
+  "description": "Website institucional e plataforma de arrecadação solidária para a ONG Presença que Cura, apoiando acompanhantes de pacientes cirúrgicos de alta complexidade em São Paulo.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
